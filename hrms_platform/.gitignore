@@ -1,0 +1,47 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> 985c4a38cd5976c42713aa6a5f975a1278287d1b
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+<<<<<<< HEAD
+
+.env
+*.env
+=======
+.env
+
+### Local config with secrets ###
+**/application-local.properties
+>>>>>>> 985c4a38cd5976c42713aa6a5f975a1278287d1b
